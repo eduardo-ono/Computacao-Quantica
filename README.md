@@ -9,7 +9,8 @@ Prof. Eduardo Ono
 ## Conteúdo
 
 * Conceitos e Aplicações
-* Fundamentos de Mecânica Quântica
+* Fundamentos
+    * Mecânica Quântica
 * Arquiteturas de Computadores Quânticos
 * Linguagens de Programação
 
