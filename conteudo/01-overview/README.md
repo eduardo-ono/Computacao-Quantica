@@ -11,6 +11,8 @@
 
 &nbsp;
 
+## Cursos Introdutórios
+
 | Thumb | Descrição |
 | --- | --- |
 | ![img](https://img.youtube.com/vi/tsbCSkvHhMo/default.jpg) | <sup>[freeCodeCamp.org]</sup><br>[__Quantum Computing Course – Math and Theory for Beginners__](https://www.youtube.com/watch?v=tsbCSkvHhMo)<br><sub>(1:36:03, YouTube, 15/Mai/2024)</sub> |
