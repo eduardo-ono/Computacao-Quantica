@@ -14,7 +14,7 @@ Introdução à Computação Quântica.
 
 ## Conteúdo
 
-* [__Overview__](./conteudo/)
+* [__Overview__](./conteudo/00-overview/)
 * Conceitos e Aplicações
 * Fundamentos
   * Mecânica Quântica
